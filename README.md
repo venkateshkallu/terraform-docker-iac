@@ -52,3 +52,4 @@ terraform-destroy.log	Destroy output
 ✅ Outcome
 
 Successfully provisioned and destroyed Docker container infrastructure using Terraform, demonstrating IaC automation
+# terraform-docker-iac
